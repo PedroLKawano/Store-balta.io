@@ -1,4 +1,3 @@
-using System.Runtime;
 using Store.Domain.Enums;
 
 namespace Store.Domain.Entities
